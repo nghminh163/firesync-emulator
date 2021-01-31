@@ -1,0 +1,5 @@
+node_modules
+*-error*
+firesync
+.idea
+serviceAccountKey.json
