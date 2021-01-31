@@ -1,4 +1,4 @@
-#FireSync
+# FireSync
 FireSync makes importing and exporting data between Firestore databases easier, especially when you want to synchronize data between Firestore Cloud and Firestore Emulator
 
 ## Sync between 2 Firestore Cloud
